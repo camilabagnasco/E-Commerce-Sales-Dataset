@@ -53,6 +53,7 @@ E-commerce businesses generate large volumes of transactional data, but transfor
 ## Author
 
 Camila Bagnasco
+
 Project developed as part of my Data Analytics & BI portfolio.
 
 
@@ -118,4 +119,5 @@ Las empresas de e-commerce generan grandes volúmenes de datos transaccionales c
 ## Autor
 
 Camila Bagnasco
+
 Proyecto desarrollado como parte de mi portfolio de Data Analytics y Business Intelligence.
